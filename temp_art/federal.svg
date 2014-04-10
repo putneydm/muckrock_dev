@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="420px" height="286px" viewBox="0 0 420 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>civic_buildings</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(-3.000000, 1.000000)">
+            <g transform="translate(320.000000, 210.000000)" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-10" fill="#CAC8D2" cx="38" cy="28" rx="38" ry="14"></ellipse>
+                <rect id="Rectangle-91" fill="#CAC8D2" x="23" y="0" width="31" height="18"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="29" y="4" width="7" height="8"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="41" y="4" width="7" height="8"></rect>
+            </g>
+            <g transform="translate(23.000000, 210.000000)" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-10" fill="#CAC8D2" cx="38" cy="28" rx="38" ry="14"></ellipse>
+                <rect id="Rectangle-91" fill="#CAC8D2" x="23" y="0" width="31" height="18"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="29" y="4" width="7" height="8"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="41" y="4" width="7" height="8"></rect>
+            </g>
+            <rect id="Rectangle-104" fill="#CAC8D2" sketch:type="MSShapeGroup" x="0" y="234" width="425" height="54"></rect>
+            <g transform="translate(117.000000, 15.000000)" fill="#CAC8D2" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-28" x="76" y="33" width="38" height="9"></rect>
+                <rect id="Rectangle-25" x="0" y="201" width="189" height="19"></rect>
+                <rect id="Rectangle-26" x="24" y="156" width="140" height="50"></rect>
+                <rect id="Rectangle-27" x="34" y="113" width="122" height="50"></rect>
+                <path d="M95.5,172 C127.808659,172 154,145.943509 154,111.012927 C154,76.0823453 127.808659,37 95.5,37 C63.1913405,37 37,76.0823453 37,111.012927 C37,145.943509 63.1913405,172 95.5,172 Z" id="Oval-9"></path>
+                <path d="M94.5,0 C94.5,-3.68234361e-11 83,3.85666086 83,3.85666086 L83,34 L106,34 L106,3.85666086 L94.5,0 Z" id="Rectangle-21"></path>
+            </g>
+            <path d="M156,186 C153.026367,186.000001 151,189.289505 151,189.289505 L151,215 L161,215 L161,189.289505 C161,189.289505 158.973633,185.999999 156,186 Z" id="Rectangle-21" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M174,186 C171.026367,186.000001 169,189.289505 169,189.289505 L169,215 L179,215 L179,189.289505 C179,189.289505 176.973633,185.999999 174,186 Z" id="Rectangle-21-copy" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M192,186 C189.026367,186.000001 187,189.289505 187,189.289505 L187,215 L197,215 L197,189.289505 C197,189.289505 194.973633,185.999999 192,186 Z" id="Rectangle-21-copy-3" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M210,186 C207.026367,186.000001 205,189.289505 205,189.289505 L205,215 L215,215 L215,189.289505 C215,189.289505 212.973633,185.999999 210,186 Z" id="Rectangle-21-copy-4" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M212,25 C209.026367,25.000001 207,27.4954864 207,27.4954864 L207,47 L217,47 L217,27.4954864 C217,27.4954864 214.973633,24.999999 212,25 Z" id="Rectangle-21-copy-4" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M228,186 C225.026367,186.000001 223,189.289505 223,189.289505 L223,215 L233,215 L233,189.289505 C233,189.289505 230.973633,185.999999 228,186 Z" id="Rectangle-21-copy-5" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M246,186 C243.026367,186.000001 241,189.289505 241,189.289505 L241,215 L251,215 L251,189.289505 C251,189.289505 248.973633,185.999999 246,186 Z" id="Rectangle-21-copy-6" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M265,186 C262.026367,186.000001 260,189.289505 260,189.289505 L260,215 L270,215 L270,189.289505 C270,189.289505 267.973633,185.999999 265,186 Z" id="Rectangle-21-copy-8" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M167.5,139 C164.229004,139.000001 162,141.495486 162,141.495486 L162,161 L173,161 L173,141.495486 C173,141.495486 170.770996,138.999999 167.5,139 Z" id="Rectangle-21-copy-2" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M253.5,139 C250.229004,139.000001 248,141.495486 248,141.495486 L248,161 L259,161 L259,141.495486 C259,141.495486 256.770996,138.999999 253.5,139 Z" id="Rectangle-21-copy-2" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M235.5,139 C232.229004,139.000001 230,141.495486 230,141.495486 L230,161 L241,161 L241,141.495486 C241,141.495486 238.770996,138.999999 235.5,139 Z" id="Rectangle-21-copy-3" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M218.5,139 C215.229004,139.000001 213,141.495486 213,141.495486 L213,161 L224,161 L224,141.495486 C224,141.495486 221.770996,138.999999 218.5,139 Z" id="Rectangle-21-copy-4" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M201.5,139 C198.229004,139.000001 196,141.495486 196,141.495486 L196,161 L207,161 L207,141.495486 C207,141.495486 204.770996,138.999999 201.5,139 Z" id="Rectangle-21-copy-5" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M184.5,139 C181.229004,139.000001 179,141.495486 179,141.495486 L179,161 L190,161 L190,141.495486 C190,141.495486 187.770996,138.999999 184.5,139 Z" id="Rectangle-21-copy-6" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="192" cy="81" rx="4" ry="7"></ellipse>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="206" cy="81" rx="4" ry="7"></ellipse>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="219" cy="81" rx="4" ry="7"></ellipse>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="233" cy="81" rx="4" ry="7"></ellipse>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(147.500000, 260.500000) scale(-1, 1) translate(-147.500000, -260.500000) " x="145" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(155.500000, 260.500000) scale(-1, 1) translate(-155.500000, -260.500000) " x="153" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(174.500000, 260.500000) scale(-1, 1) translate(-174.500000, -260.500000) " x="172" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(183.500000, 260.500000) scale(-1, 1) translate(-183.500000, -260.500000) " x="181" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(199.500000, 260.500000) scale(-1, 1) translate(-199.500000, -260.500000) " x="197" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(268.500000, 260.500000) scale(-1, 1) translate(-268.500000, -260.500000) " x="266" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(276.500000, 260.500000) scale(-1, 1) translate(-276.500000, -260.500000) " x="274" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(241.500000, 260.500000) scale(-1, 1) translate(-241.500000, -260.500000) " x="239" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(225.500000, 260.500000) scale(-1, 1) translate(-225.500000, -260.500000) " x="223" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(249.500000, 260.500000) scale(-1, 1) translate(-249.500000, -260.500000) " x="247" y="234" width="5" height="53"></rect>
+            <rect id="Rectangle-105" fill="#CAC8D2" sketch:type="MSShapeGroup" x="208" y="0" width="7" height="18"></rect>
+        </g>
+    </g>
+</svg>

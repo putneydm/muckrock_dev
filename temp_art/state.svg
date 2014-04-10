@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="420px" height="286px" viewBox="0 0 420 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>civic_buildings</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(-2.000000, 0.000000)">
+            <path d="M1.98733411e-07,285 L1.90811299e-14,173.925044 L22.1120468,173.925044 L22.1120466,156.862528 L71.2191047,123.567292 L116.827816,156.862528 L116.827816,173.925049 L137.939449,173.925049 L137.939451,145.474679 L154.86075,145.474679 L154.860748,117.863744 L165.768877,117.863744 C165.768877,117.863744 164.948678,89.8202566 175.534196,71.8573015 C186.119712,53.8943453 195.597507,47.2110485 195.597507,47.2110485 L195.597507,26.0751508 L208.984823,12 L222.833667,26.0751509 L222.833667,47.2110501 C222.833667,47.2110501 230.820229,53.6254318 242.523077,71.8572988 C254.225925,90.089166 252.83867,117.863751 252.83867,117.863751 L263.777122,117.863753 L263.767231,145.474674 L280.923273,145.474674 L280.923273,173.925049 L302.229784,173.925049 L302.229787,156.862532 L347.701447,124.623934 L396.801439,156.862528 L396.801439,173.925044 L419,173.912218 L419,284.99999 L1.98733411e-07,285 Z" id="Path-2" fill="#CAC8D2" sketch:type="MSShapeGroup" transform="translate(209.000000, 148.000000) scale(-1, 1) translate(-209.000000, -148.000000) "></path>
+            <path d="M32.1813525,200.741136 L154.231557,200.741136 L208.488529,164.930589 L265.778905,200.741136 L386.072258,200.741136" id="Path-4" stroke="#F5F9FA" stroke-width="3" sketch:type="MSShapeGroup"></path>
+            <path d="M386.301782,213.470703 L32.2068551,213.275879" id="Path-5" stroke="#F5F9FA" stroke-width="3" sketch:type="MSShapeGroup"></path>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(44.000000, 227.000000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="10" cy="14.3333333" rx="10" ry="14.3333333"></ellipse>
+                <rect id="Rectangle-6" x="0" y="14.3333333" width="20" height="28.6666667"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(90.000000, 227.000000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="10" cy="14.3333333" rx="10" ry="14.3333333"></ellipse>
+                <rect id="Rectangle-6" x="0" y="14.3333333" width="20" height="28.6666667"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(136.000000, 227.000000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="10" cy="14.3333333" rx="10" ry="14.3333333"></ellipse>
+                <rect id="Rectangle-6" x="0" y="14.3333333" width="20" height="28.6666667"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(183.000000, 227.000000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="10" cy="14.3333333" rx="10" ry="14.3333333"></ellipse>
+                <rect id="Rectangle-6" x="0" y="14.3333333" width="20" height="28.6666667"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(230.000000, 227.000000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="10" cy="14.3333333" rx="10" ry="14.3333333"></ellipse>
+                <rect id="Rectangle-6" x="0" y="14.3333333" width="20" height="28.6666667"></rect>
+            </g>
+            <ellipse id="Oval-1" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="286" cy="240.5" rx="10" ry="14.5"></ellipse>
+            <rect id="Rectangle-6" fill="#F5F9FA" sketch:type="MSShapeGroup" x="276" y="240" width="20" height="29"></rect>
+            <ellipse id="Oval-1" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="333" cy="240.5" rx="10" ry="14.5"></ellipse>
+            <rect id="Rectangle-6" fill="#F5F9FA" sketch:type="MSShapeGroup" x="323" y="240" width="20" height="29"></rect>
+            <ellipse id="Oval-1" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="382" cy="240.5" rx="10" ry="14.5"></ellipse>
+            <rect id="Rectangle-6" fill="#F5F9FA" sketch:type="MSShapeGroup" x="372" y="240" width="20" height="29"></rect>
+            <path d="M206.37793,16.1339518 C206.37793,16.1339518 204.305176,8.97867834 206.638672,6.7734375 C208.972168,4.56819661 209.364746,0.636393229 209.364746,0.636393229 L211.0625,7.01969401 L211.0625,13.4195964 L211.0625,17.5976562 L206.37793,16.1339518 Z" id="Path-6" fill="#CAC8D2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

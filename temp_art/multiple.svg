@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="420px" height="286px" viewBox="0 0 420 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>civic_buildings</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(-1.000000, 152.000000)">
+            <path d="M9.53146962e-08,137 L9.15151657e-15,83.9876643 L10.6051771,83.9876643 L10.605177,75.8442997 L34.1574539,59.953605 L56.0318856,75.8442997 L56.0318857,83.9876666 L66.1572536,83.9876666 L66.1572547,70.409263 L74.2728929,70.409263 L74.2728919,57.2314935 L79.5045486,57.2314935 C79.5045486,57.2314935 79.1111724,43.8472815 84.1881014,35.2741679 C89.2650296,26.7010539 93.8106828,23.5113414 93.8106828,23.5113414 L93.8106829,13.4238892 L100.231384,6.70629371 L106.87344,13.4238892 L106.87344,23.5113421 C106.87344,23.5113421 110.703882,26.5727105 116.316694,35.2741667 C121.929507,43.9756229 121.264164,57.2314968 121.264164,57.2314968 L126.510365,57.231498 L126.505621,70.4092606 L134.733844,70.4092606 L134.733844,83.9876665 L144.952677,83.9876665 L144.952679,75.844302 L166.761379,60.4579045 L190.310267,75.8442997 L190.310267,83.9876643 L200.956938,83.9815425 L200.956938,136.999995 L9.53146962e-08,137 Z" id="Path-2" fill="#CAC8D2" sketch:type="MSShapeGroup" transform="translate(100.000000, 71.374126) scale(-1, 1) translate(-100.000000, -71.374126) "></path>
+            <path d="M15.3110048,96.7622378 L73.7262343,96.7622378 L99.6945108,79.5174825 L127.114624,96.7622378 L184.688995,96.7622378" id="Path-4" stroke="#F5F9FA" stroke-width="3" sketch:type="MSShapeGroup"></path>
+            <path d="M184.688995,103.034705 L15.3110048,102.944316" id="Path-5" stroke="#F5F9FA" stroke-width="3" sketch:type="MSShapeGroup"></path>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(21.052632, 108.258741)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="4.784689" cy="6.70629371" rx="4.784689" ry="6.70629371"></ellipse>
+                <rect id="Rectangle-6" x="0" y="6.70629371" width="9.56937799" height="13.4125874"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(43.062201, 108.258741)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="4.784689" cy="6.70629371" rx="4.784689" ry="6.70629371"></ellipse>
+                <rect id="Rectangle-6" x="0" y="6.70629371" width="9.56937799" height="13.4125874"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(65.071770, 108.258741)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="4.784689" cy="6.70629371" rx="4.784689" ry="6.70629371"></ellipse>
+                <rect id="Rectangle-6" x="0" y="6.70629371" width="9.56937799" height="13.4125874"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(87.081340, 108.258741)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="4.784689" cy="6.70629371" rx="4.784689" ry="6.70629371"></ellipse>
+                <rect id="Rectangle-6" x="0" y="6.70629371" width="9.56937799" height="13.4125874"></rect>
+            </g>
+            <g id="Oval-1-+-Rectangle-6" transform="translate(110.047847, 108.258741)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-1" cx="4.784689" cy="6.70629371" rx="4.784689" ry="6.70629371"></ellipse>
+                <rect id="Rectangle-6" x="0" y="6.70629371" width="9.56937799" height="13.4125874"></rect>
+            </g>
+            <ellipse id="Oval-1" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="136.842105" cy="115.444056" rx="4.784689" ry="7.18531469"></ellipse>
+            <rect id="Rectangle-6" fill="#F5F9FA" sketch:type="MSShapeGroup" x="132.057416" y="115.923077" width="9.56937799" height="14.3706294"></rect>
+            <ellipse id="Oval-1" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="158.851675" cy="115.444056" rx="4.784689" ry="7.18531469"></ellipse>
+            <rect id="Rectangle-6" fill="#F5F9FA" sketch:type="MSShapeGroup" x="154.066986" y="115.923077" width="9.56937799" height="14.3706294"></rect>
+            <ellipse id="Oval-1" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="182.77512" cy="115.444056" rx="4.784689" ry="7.18531469"></ellipse>
+            <rect id="Rectangle-6" fill="#F5F9FA" sketch:type="MSShapeGroup" x="177.990431" y="115.923077" width="9.56937799" height="14.3706294"></rect>
+            <path d="M99.0048644,7.00292725 C99.0048644,7.00292725 97.9294368,3.76965284 99.1401479,2.77316419 C100.350859,1.77667553 100.554544,0 100.554544,0 L101.435407,2.88444084 L101.435407,5.77638349 L101.435407,7.66433566 L99.0048644,7.00292725 Z" id="Path-6" fill="#CAC8D2" sketch:type="MSShapeGroup"></path>
+        </g>
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(240.000000, 151.000000)">
+            <rect id="Rectangle-14" fill="#CAC8D2" sketch:type="MSShapeGroup" x="0" y="38.76" width="180" height="63.24"></rect>
+            <path d="M42.1146086,90.78 L33.559322,102 L141.355932,102 L133.22841,90.78 L42.1146086,90.78 Z" id="Rectangle-5" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <g id="Rectangle-1-+-Rectangle-12" transform="translate(49.830508, 37.740000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1" x="2.03389831" y="0" width="8.13559322" height="48.96"></rect>
+                <rect id="Rectangle-12" x="0" y="48.96" width="11.1864407" height="6.12"></rect>
+            </g>
+            <g id="Rectangle-1-+-Rectangle-12" transform="translate(72.203390, 37.740000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1" x="2.03389831" y="0" width="8.13559322" height="48.96"></rect>
+                <rect id="Rectangle-12" x="0" y="48.96" width="11.1864407" height="6.12"></rect>
+            </g>
+            <g id="Rectangle-1-+-Rectangle-12" transform="translate(94.576271, 37.740000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1" x="2.03389831" y="0" width="8.13559322" height="48.96"></rect>
+                <rect id="Rectangle-12" x="0" y="48.96" width="11.1864407" height="6.12"></rect>
+            </g>
+            <g id="Rectangle-1-+-Rectangle-12" transform="translate(117.966102, 37.740000)" fill="#F5F9FA" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1" x="2.03389831" y="0" width="8.13559322" height="48.96"></rect>
+                <rect id="Rectangle-12" x="0" y="48.96" width="11.1864407" height="6.12"></rect>
+            </g>
+            <polygon id="Triangle-1" fill="#CAC8D2" sketch:type="MSShapeGroup" points="87.9661017 7.14 142.372881 39.78 33.559322 39.78 "></polygon>
+            <rect id="Rectangle-13" fill="#F5F9FA" sketch:type="MSShapeGroup" x="38.6440678" y="38.76" width="104.745763" height="3.06"></rect>
+            <rect id="Rectangle-13" fill="#F5F9FA" sketch:type="MSShapeGroup" x="39.6610169" y="40.8" width="99.6610169" height="4.08"></rect>
+            <path d="M96.6101695,26.01 C96.6101695,27.2128446 96.3146657,28.3221499 95.7236494,29.3379492 C95.132633,30.3537486 94.3307563,31.1580309 93.3179952,31.7508203 C92.3052342,32.3436097 91.1992468,32.64 90,32.64 C88.8007532,32.64 87.6947658,32.3436097 86.6820048,31.7508203 C85.6692437,31.1580309 84.867367,30.3537486 84.2763506,29.3379492 C83.6853343,28.3221499 83.3898305,27.2128446 83.3898305,26.01 C83.3898305,24.8071554 83.6853343,23.6978501 84.2763506,22.6820508 C84.867367,21.6662514 85.6692437,20.8619691 86.6820048,20.2691797 C87.6947658,19.6763903 88.8007532,19.38 90,19.38 C91.1992468,19.38 92.3052342,19.6763903 93.3179952,20.2691797 C94.3307563,20.8619691 95.132633,21.6662514 95.7236494,22.6820508 C96.3146657,23.6978501 96.6101695,24.8071554 96.6101695,26.01 Z M94.5762712,26.01 C94.5762712,25.1774958 94.3715748,24.409691 93.962176,23.7065625 C93.5527771,23.003434 92.9975733,22.4465646 92.2965479,22.0359375 C91.5955224,21.6253104 90.8300141,21.42 90,21.42 C89.1699859,21.42 88.4044776,21.6253104 87.7034521,22.0359375 C87.0024267,22.4465646 86.4472229,23.003434 86.037824,23.7065625 C85.6284252,24.409691 85.4237288,25.1774958 85.4237288,26.01 C85.4237288,26.8425042 85.6284252,27.610309 86.037824,28.3134375 C86.4472229,29.016566 87.0024267,29.5734354 87.7034521,29.9840625 C88.4044776,30.3946896 89.1699859,30.6 90,30.6 C90.8300141,30.6 91.5955224,30.3946896 92.2965479,29.9840625 C92.9975733,29.5734354 93.5527771,29.016566 93.962176,28.3134375 C94.3715748,27.610309 94.5762712,26.8425042 94.5762712,26.01 Z M90.5084746,22.695 L90.5084746,26.265 C90.5084746,26.3393754 90.4846401,26.4004685 90.4369703,26.4482813 C90.3893006,26.496094 90.3283902,26.52 90.2542373,26.52 L87.7118644,26.52 C87.6377115,26.52 87.5768011,26.496094 87.5291314,26.4482813 C87.4814616,26.4004685 87.4576271,26.3393754 87.4576271,26.265 L87.4576271,25.755 C87.4576271,25.6806246 87.4814616,25.6195315 87.5291314,25.5717187 C87.5768011,25.523906 87.6377115,25.5 87.7118644,25.5 L89.4915254,25.5 L89.4915254,22.695 C89.4915254,22.6206246 89.5153599,22.5595315 89.5630297,22.5117187 C89.6106994,22.463906 89.6716098,22.44 89.7457627,22.44 L90.2542373,22.44 C90.3283902,22.44 90.3893006,22.463906 90.4369703,22.5117187 C90.4846401,22.5595315 90.5084746,22.6206246 90.5084746,22.695 Z" id="" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M18.3050847,69.36 C18.3050847,69.36 14.2372881,71.2111972 14.2372881,71.2111972 L14.2372881,85.68 L22.3728814,85.68 L22.3728814,71.2111972 L18.3050847,69.36 Z" id="Rectangle-21" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M33.559322,69.36 C33.559322,69.36 29.4915254,71.2111972 29.4915254,71.2111972 L29.4915254,85.68 L37.6271186,85.68 L37.6271186,71.2111972 L33.559322,69.36 Z" id="Rectangle-21-copy" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M145.423729,69.36 C145.423729,69.36 141.355932,71.2111972 141.355932,71.2111972 L141.355932,85.68 L149.491525,85.68 L149.491525,71.2111972 L145.423729,69.36 Z" id="Rectangle-21-copy" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M160.677966,69.36 C160.677966,69.36 156.610169,71.2111972 156.610169,71.2111972 L156.610169,85.68 L164.745763,85.68 L164.745763,71.2111972 L160.677966,69.36 Z" id="Rectangle-21-copy-2" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M89.4915254,0 L89.4915254,9.18" id="Path-10" stroke="#CAC8D2" stroke-width="4" sketch:type="MSShapeGroup"></path>
+        </g>
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(135.000000, 1.000000)">
+            <g transform="translate(150.588235, 99.093750)" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-10" fill="#CAC8D2" cx="17.8823529" cy="13.2125" rx="17.8823529" ry="6.60625"></ellipse>
+                <rect id="Rectangle-91" fill="#CAC8D2" x="10.8235294" y="0" width="14.5882353" height="8.49375"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="13.6470588" y="1.8875" width="3.29411765" height="3.775"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="19.2941176" y="1.8875" width="3.29411765" height="3.775"></rect>
+            </g>
+            <g transform="translate(10.823529, 99.093750)" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-10" fill="#CAC8D2" cx="17.8823529" cy="13.2125" rx="17.8823529" ry="6.60625"></ellipse>
+                <rect id="Rectangle-91" fill="#CAC8D2" x="10.8235294" y="0" width="14.5882353" height="8.49375"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="13.6470588" y="1.8875" width="3.29411765" height="3.775"></rect>
+                <rect id="Rectangle-46-copy-4" fill="#F5F9FA" x="19.2941176" y="1.8875" width="3.29411765" height="3.775"></rect>
+            </g>
+            <rect id="Rectangle-104" fill="#CAC8D2" sketch:type="MSShapeGroup" x="0" y="110.41875" width="200" height="25.48125"></rect>
+            <g transform="translate(55.058824, 7.078125)" fill="#CAC8D2" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-28" x="35.7647059" y="15.571875" width="17.8823529" height="4.246875"></rect>
+                <rect id="Rectangle-25" x="0" y="94.846875" width="88.9411765" height="8.965625"></rect>
+                <rect id="Rectangle-26" x="11.2941176" y="73.6125" width="65.8823529" height="23.59375"></rect>
+                <rect id="Rectangle-27" x="16" y="53.321875" width="57.4117647" height="23.59375"></rect>
+                <path d="M44.9411765,81.1625 C60.1452515,81.1625 72.4705882,68.8670935 72.4705882,52.3842251 C72.4705882,35.9013567 60.1452515,17.459375 44.9411765,17.459375 C29.7371014,17.459375 17.4117647,35.9013567 17.4117647,52.3842251 C17.4117647,68.8670935 29.7371014,81.1625 44.9411765,81.1625 Z" id="Oval-9"></path>
+                <path d="M44.4705882,0 C44.4705882,-1.73760589e-11 39.0588235,1.81986184 39.0588235,1.81986184 L39.0588235,16.04375 L49.8823529,16.04375 L49.8823529,1.81986184 L44.4705882,0 Z" id="Rectangle-21"></path>
+            </g>
+            <path d="M73.4117647,87.76875 C72.0124081,87.7687506 71.0588235,89.3209851 71.0588235,89.3209851 L71.0588235,101.453125 L75.7647059,101.453125 L75.7647059,89.3209851 C75.7647059,89.3209851 74.8111213,87.7687494 73.4117647,87.76875 Z" id="Rectangle-21" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M81.8823529,87.76875 C80.4829963,87.7687506 79.5294118,89.3209851 79.5294118,89.3209851 L79.5294118,101.453125 L84.2352941,101.453125 L84.2352941,89.3209851 C84.2352941,89.3209851 83.2817096,87.7687494 81.8823529,87.76875 Z" id="Rectangle-21-copy" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M90.3529412,87.76875 C88.9535846,87.7687506 88,89.3209851 88,89.3209851 L88,101.453125 L92.7058824,101.453125 L92.7058824,89.3209851 C92.7058824,89.3209851 91.7522978,87.7687494 90.3529412,87.76875 Z" id="Rectangle-21-copy-3" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M98.8235294,87.76875 C97.4241728,87.7687506 96.4705882,89.3209851 96.4705882,89.3209851 L96.4705882,101.453125 L101.176471,101.453125 L101.176471,89.3209851 C101.176471,89.3209851 100.222886,87.7687494 98.8235294,87.76875 Z" id="Rectangle-21-copy-4" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M99.7647059,11.796875 C98.3653493,11.7968755 97.4117647,12.9744327 97.4117647,12.9744327 L97.4117647,22.178125 L102.117647,22.178125 L102.117647,12.9744327 C102.117647,12.9744327 101.164062,11.7968745 99.7647059,11.796875 Z" id="Rectangle-21-copy-4" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M107.294118,87.76875 C105.894761,87.7687506 104.941176,89.3209851 104.941176,89.3209851 L104.941176,101.453125 L109.647059,101.453125 L109.647059,89.3209851 C109.647059,89.3209851 108.693474,87.7687494 107.294118,87.76875 Z" id="Rectangle-21-copy-5" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M115.764706,87.76875 C114.365349,87.7687506 113.411765,89.3209851 113.411765,89.3209851 L113.411765,101.453125 L118.117647,101.453125 L118.117647,89.3209851 C118.117647,89.3209851 117.164062,87.7687494 115.764706,87.76875 Z" id="Rectangle-21-copy-6" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M124.705882,87.76875 C123.306526,87.7687506 122.352941,89.3209851 122.352941,89.3209851 L122.352941,101.453125 L127.058824,101.453125 L127.058824,89.3209851 C127.058824,89.3209851 126.105239,87.7687494 124.705882,87.76875 Z" id="Rectangle-21-copy-8" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M78.8235294,65.590625 C77.2842371,65.5906255 76.2352941,66.7681827 76.2352941,66.7681827 L76.2352941,75.971875 L81.4117647,75.971875 L81.4117647,66.7681827 C81.4117647,66.7681827 80.3628217,65.5906245 78.8235294,65.590625 Z" id="Rectangle-21-copy-2" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M119.294118,65.590625 C117.754825,65.5906255 116.705882,66.7681827 116.705882,66.7681827 L116.705882,75.971875 L121.882353,75.971875 L121.882353,66.7681827 C121.882353,66.7681827 120.83341,65.5906245 119.294118,65.590625 Z" id="Rectangle-21-copy-2" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M110.823529,65.590625 C109.284237,65.5906255 108.235294,66.7681827 108.235294,66.7681827 L108.235294,75.971875 L113.411765,75.971875 L113.411765,66.7681827 C113.411765,66.7681827 112.362822,65.5906245 110.823529,65.590625 Z" id="Rectangle-21-copy-3" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M102.823529,65.590625 C101.284237,65.5906255 100.235294,66.7681827 100.235294,66.7681827 L100.235294,75.971875 L105.411765,75.971875 L105.411765,66.7681827 C105.411765,66.7681827 104.362822,65.5906245 102.823529,65.590625 Z" id="Rectangle-21-copy-4" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M94.8235294,65.590625 C93.2842371,65.5906255 92.2352941,66.7681827 92.2352941,66.7681827 L92.2352941,75.971875 L97.4117647,75.971875 L97.4117647,66.7681827 C97.4117647,66.7681827 96.3628217,65.5906245 94.8235294,65.590625 Z" id="Rectangle-21-copy-5" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <path d="M86.8235294,65.590625 C85.2842371,65.5906255 84.2352941,66.7681827 84.2352941,66.7681827 L84.2352941,75.971875 L89.4117647,75.971875 L89.4117647,66.7681827 C89.4117647,66.7681827 88.3628217,65.5906245 86.8235294,65.590625 Z" id="Rectangle-21-copy-6" fill="#F5F9FA" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="90.3529412" cy="38.221875" rx="1.88235294" ry="3.303125"></ellipse>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="96.9411765" cy="38.221875" rx="1.88235294" ry="3.303125"></ellipse>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="103.058824" cy="38.221875" rx="1.88235294" ry="3.303125"></ellipse>
+            <ellipse id="Oval-12" fill="#F5F9FA" sketch:type="MSShapeGroup" cx="109.647059" cy="38.221875" rx="1.88235294" ry="3.303125"></ellipse>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(69.411765, 122.923437) scale(-1, 1) translate(-69.411765, -122.923437) " x="68.2352941" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(73.176471, 122.923437) scale(-1, 1) translate(-73.176471, -122.923437) " x="72" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(82.117647, 122.923437) scale(-1, 1) translate(-82.117647, -122.923437) " x="80.9411765" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(86.352941, 122.923437) scale(-1, 1) translate(-86.352941, -122.923437) " x="85.1764706" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(93.882353, 122.923437) scale(-1, 1) translate(-93.882353, -122.923437) " x="92.7058824" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(126.352941, 122.923437) scale(-1, 1) translate(-126.352941, -122.923437) " x="125.176471" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(130.117647, 122.923437) scale(-1, 1) translate(-130.117647, -122.923437) " x="128.941176" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(113.647059, 122.923437) scale(-1, 1) translate(-113.647059, -122.923437) " x="112.470588" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(106.117647, 122.923437) scale(-1, 1) translate(-106.117647, -122.923437) " x="104.941176" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-90" fill="#F5F9FA" sketch:type="MSShapeGroup" transform="translate(117.411765, 122.923437) scale(-1, 1) translate(-117.411765, -122.923437) " x="116.235294" y="110.41875" width="2.35294118" height="25.009375"></rect>
+            <rect id="Rectangle-105" fill="#CAC8D2" sketch:type="MSShapeGroup" x="97.8823529" y="0" width="3.29411765" height="8.49375"></rect>
+        </g>
+    </g>
+</svg>
