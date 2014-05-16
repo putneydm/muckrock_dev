@@ -1,54 +1,200 @@
-	<div class="monitor">
-		<h4 class="red">Muckrock Monitor</h4>
-		<p>Find out what's going on in the Muckrock community.</p>
-		<dl class="news_headlines">
-			
-				<dd>
-				<img src="temp_art/mug2.jpg" class="headlines_image" />
-				<p class="label">New request</p>
-				<p class="news_headlines_text">ShawnMusgrave requested Bag ban impact study from Austin, TX.</p>
-				<div class="mini_button mini_button_light">Track</div>
-				</dd>
-
-
-				<dd>
-				<img src="temp_art/mug4.jpg" class="headlines_image" />						
-				<p class="label">New request </p>
-				<p class="news_headlines_text">maryamhabil requested Sex Offender Registry for New York City</p> 
-				<div class="mini_button mini_button_light">Track</div>
-				</dd>
-
-
-				<dd>
-				<img src="temp_art/muckrock_podcast.jpg" class="headlines_image"/>			
-				<p class="label">News</p>
-				<p class="news_headlines_text">MuckRock, the podcast, joins Mule Radio</p>
-				<div class="mini_button mini_button_light">Read</div>
-				</dd>
-			
-				<dd>
-				<img src="temp_art/mug3.jpg" class="headlines_image"/>			
-				<p class="label">New request</p>
-				<p class="news_headlines_text">helmut113 ICE I-9 inspection documents from United States of America 
-				<div class="mini_button mini_button_light">Track</div>
-				</dd>
-			
-			
-				<dd>
-				<img src="temp_art/muckrock_podcast.jpg" class="headlines_image"/>			
-				<p class="label">Muckrock Podcast </p>
-				<p class="news_headlines_text">Muckrock podcast: This is the title of a podcast ep </p>
-				<div class="mini_button mini_button_light">Listen</div>
-				</dd>
-			
-				<dd>
-				<img src="temp_art/mug1.jpg" class="headlines_image"/>
-				<p class="label">Muckrock News </p>
-				<p class="news_headlines_text">NSA's contract with VUPEN, 'Darth Vader of Cybersecurity'</p>
-				<div class="mini_button mini_button_light">Read</div>
-			
-				</dd>
+	<!-- begin right rail monitor  -->
+		
+	<!--
+	This is the right rail monitor that shows site activity. It will appear in the right sidebar on multiple pages. 
+	This version shows all the of the variations of items that will show up in the sidebar.
+	Items include:
+	- Any new requests people post that are public.
+	- Any requests that have been returned.
+	- People who have backed requests.
+	- Requests that need financial support.
+	- People who have provided financial support.
+	- News stories that have been posted.
+	- New podcast episodes. 
+	- Requests that have been forked.
+	- Overdue requests
 	
-				</dl>
+	All of the variations should be reflected here.
+	I'm not sure on the number of items that should appear. I'd say no more than seven or eight. We'll have to see what the volume is.
+	They should be ordered by recency.
+	
+	I guessed at what the correct CTA for each item would be. There's a button and a link varation. If you need to change them, that's fine. 
+	-->
+	
+	<div class="monitor">
+		<h4 class="red">Muckrock monitor</h4>
+		<p>Find out what's going on in the Muckrock community.</p>
+		<ul class="news_headlines">
+			
+				<!-- request submitted -->
+				<li>
+				<a href="" rel="next"><img src="temp_art/mug1.jpg" class="headlines_image" /></a>
+				<!-- the label in this position will relfect the various categories of items.-->
+				<p class="label">New request</p>
+				<!-- 
+				- name links to the user page. if it's a staffer, it links to their bio/archive page
+				- name of request links to the request page.
+				- jurisdiction name links to jurisdiction page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">ShawnMusgrave</a> requested <a href="" rel="next">Bag ban impact study</a> from <a href="" rel="next">Austin, TX.</a></p>
+				<!-- 
+				this adds this request to the user's list of tracked requests. tracked requests show up on user page. changes in tracked requests show up as alerts on the toolbar of logged in users.
+				logged out users who click on a button are sent to the log in/sign up page. 
+				after clicking on a button, the button is set to a disabled state. 
+				-->
+				<input type="button" class="mini_button mini_button_light" value="Track" />
+				</li>
+
+				<!-- request submitted variation -->
+				<li>
+				<!-- items created by people without avatars get a generic avatar. -->
+				<div class="generic_avatar"></div>
+				<p class="label">New request </p>
+				<!-- 
+				user names link to their user page
+				request name links to request page.
+				agency name links to agency page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">maryamhabil</a> requested <a href="" rel="next">Sex Offender Registry</a> for <a href="" rel="next">New York City</a></p> 
+				<!-- this shows a disabled button state -->
+				<input type="button" class="mini_button mini_button_light" value="Track" disabled="disabled"/>
+				</li>
+
+				<!-- request returned -->
+				<li>
+				<a href="" rel="next"><img src="temp_art/mug2.jpg" class="headlines_image" /></a>
+				<p class="label">Request returned</p>
+				<!-- 
+				- name links to the user page. if it's a staffer, it links to their bio/archive page
+				- name of request links to the request page.
+				- jurisdiction name links to jurisdiction page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">ShawnMusgrave</a> received a reply to <a href="" rel="next">Bag ban impact study</a> from <a href="" rel="next">Austin, TX.</a></p>
+				<!-- 
+				links to the page with the returned request
+				-->
+				<a href="" rel="next" class="button mini_button mini_button_light">Read</a>
+				</li>
+				
+				<!-- request forked -->
+				<li>
+				<!-- avatar of person who forked the request-->
+				<a href="" rel="next"><img src="temp_art/mug3.jpg" class="headlines_image" /></a>
+				<p class="label">Request forked</p>
+				<!-- 
+				- name links to the user page. if it's a staffer, it links to their bio/archive page
+				- name of request links to the request page.
+				- jurisdiction name links to jurisdiction page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">ShawnMusgrave</a> forked <a href="" rel="next">Bag ban impact study</a> and submitted it to <a href="" rel="next">Boston, Mass.</a></p>
+				<!-- 
+				links to the page with the returned request
+				-->
+				<input type="button" class="mini_button mini_button_light" value="Track" />
+				</li>
+
+
+				<!-- request overdue -->
+				<li>
+				<!-- avatar of person who forked the request-->
+				<a href="" rel="next"><img src="temp_art/mug4.jpg" class="headlines_image" /></a>
+				<p class="label">Overdue request</p>
+				<!-- 
+				- name links to the user page. if it's a staffer, it links to their bio/archive page
+				- name of request links to the request page.
+				- jurisdiction name links to jurisdiction page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">ShawnMusgrave</a> requested <a href="" rel="next">Bag ban impact study</a> from <a href="" rel="next">Boston, Mass.</a> and it is now overdue.</p>
+				<!-- 
+				links to the page with the returned request
+				-->
+				<input type="button" class="mini_button mini_button_light" value="Track" />
+				</li>
+
+				<!-- news story -->
+				<li>
+				<!-- avatar of author. links to bio/archive page -->
+				<a href="" rel="next"><img src="temp_art/mug3.jpg" class="headlines_image"/></a>			
+				<!-- news stories get news label -->
+				<p class="label">News</p>
+				<!--  
+				headline of story links to story page
+				includes the class monitor_headline so the whole thing isn't underlined.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next" class="monitor_headline">Customs and Border Protection refuses to disclose what its drone was doing when it crashed near San Diego</a></p>
+				<!-- link that looks like a button links to story page. -->
+				<a href="" rel="next" class="button mini_button mini_button_light">Read</a>
+				</dd>
+				
+				
+				<!-- support needed -->
+				<li>
+				<!-- avatar of person needing support. -->
+				<a href="" rel="next"><img src="temp_art/mug4.jpg" class="headlines_image"/></a>			
+				<p class="label">Support needed </p>
+				<!-- 
+				user names link to their user page
+				request name links to request page.
+				agency name links to agency page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">ima_suer</a> needs $500 to complete the request for <a href="" rel="next">State Department Drone inventory for 2014</a> from <a href="" rel="next">the U.S. State Department.</a></p> 
+				<!-- links to the request, which will have a place that people can pledge support. -->
+				<a href="" rel="next" class="button mini_button mini_button_light">Give</a>
+				</li>
+			
+			
+			
+				<!-- podcast. whenever a new podcast episode is posted -->
+				<li>
+				<!-- the avatar is always the podcast logo -->
+				<img src="temp_art/muckrock_podcast.jpg" class="headlines_image"/>	
+				<!-- label is always muckrock podcast -->
+				<p class="label">Muckrock Podcast </p>
+				<p class="news_headlines_text">This is the title of a podcast ep </p>
+				<!-- links to page with podcast on it -->
+				<a href="" rel="next" class="button mini_button mini_button_light">Listen</a>
+				</dd>
+				
+				
+				
+				<!-- tracker. shows up when someone tracks a request-->
+				<li>
+				<!-- avatar of person who tracked the request. links to their user page-->
+				<a href="" rel="next"><img src="temp_art/mug1.jpg" class="headlines_image"/></a>			
+				<p class="label">Tracked request </p>
+				<!-- 
+				user names link to their user page
+				request name links to request page.
+				agency name links to agency page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">maryamhabil</a> tracked a request by <a href="" rel="next">johnsmith</a> for the <a href="" rel="next">Sex Offender Registry</a> from <a href="" rel="next">New York City</a></p> 
+				<!-- track button so others can track the request -->
+				<input type="button" class="mini_button mini_button_light" value="Track"/>
+				</li>
+				
+				
+				
+				<!-- backer. shows up when someone donates to a request-->
+				<li>
+				<!-- avatar of person who backed the request. -->
+				<a href="" rel="next"><img src="temp_art/mug5.jpg" class="headlines_image"/></a>			
+				<p class="label">Hero </p>
+				<!-- 
+				user names link to their user page
+				request name links to request page.
+				agency name links to agency page.
+				-->
+				<p class="news_headlines_text"><a href="" rel="next">heywood_jablomey</a> donated *amount* to a request by <a href="" rel="next">johnsmith</a> for the <a href="" rel="next">Sex Offender Registry</a> from <a href="" rel="next">New York City</a></p> 
+				<!-- button so others can donate to the request. links to the request page, where people can donate. -->
+				<a href="" rel="next" class="button mini_button mini_button_light">Give</a>
+				</li>
+			
+	
+				</ul>
+				<!-- links off the to site activity page -->
+				<a href="" rel="next" class="button light_button more_button">More</a>
+
 			
 		</div>	
+		
+		<!-- end right rail monitor -->
